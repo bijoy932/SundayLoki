@@ -11,13 +11,7 @@ public class AccessModifier {
 	String address = "Heritage Tower";			//default - classes in same package can access
 	
 	
-	public String word="bijoy";
-	
-	int a = 10;
-	
-	int b=20;
-	
-	int number = 25;
+	//there are four different types of modifiers in the java program.
 }
 	
 
