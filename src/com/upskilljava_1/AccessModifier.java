@@ -10,6 +10,7 @@ public class AccessModifier {
 	
 	String address = "Heritage Tower";			//default - classes in same package can access
 	
+	public int x=5;
 	
 	//there are four different types of modifiers in the java program.
 }
